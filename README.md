@@ -3,6 +3,7 @@
 Este projeto é um **dashboard em Streamlit** que analisa descrições de vagas de emprego e identifica as **habilidades (skills) de tecnologia** mais citadas, como Cloud, Data, DevOps e Desenvolvimento.
 
 O objetivo é visualizar quais tecnologias estão sendo mais exigidas no mercado com base em dados de vagas.
+![Dashboard](dashboard.png)
 
 ## Funcionalidades
 
