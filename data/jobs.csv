@@ -1,0 +1,11 @@
+job_title,company,location,date_posted,description
+Data Analyst,TechCorp,Brazil,2024-01-15,"Looking for SQL, Power BI, Excel and Python skills. Experience with dashboards is a plus."
+Backend Developer,CloudSoft,Brazil,2024-02-10,"Strong knowledge of C#, .NET, SQL Server and Git. Docker is a plus."
+Cloud Engineer,InfraX,Remote,2024-03-05,"AWS, Linux, Docker, Kubernetes, Terraform and CI/CD experience required."
+Machine Learning Intern,AI Labs,Remote,2024-03-20,"Python, Pandas, Scikit-learn, Machine Learning fundamentals and Git required."
+DevOps Engineer,DeployNow,Brazil,2024-04-01,"Kubernetes, Docker, AWS, GitHub Actions, Linux and monitoring tools."
+Full Stack Developer,WebSolutions,Remote,2024-04-10,"JavaScript, React, Node.js, SQL, Git and basic cloud knowledge (AWS or Azure)."
+Database Administrator,DataBank,Brazil,2024-05-02,"SQL, PostgreSQL, backup strategies, Linux and performance tuning."
+Software Engineer,TechWave,Brazil,2024-05-15,"Java, Spring Boot, REST APIs, Git, Docker and SQL experience."
+Business Intelligence Analyst,InsightPro,Brazil,2024-06-01,"Power BI, SQL, Excel, data modeling and reporting."
+Cybersecurity Analyst,SecureIT,Remote,2024-06-10,"Networking, Linux, security tools, cloud security (AWS/Azure) and incident response."
